@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect x="8" y="8" width="48" height="48" rx="4" fill="#494" />
+  <text x="32" y="38" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Archer</text>
+  <circle cx="32" cy="24" r="8" fill="white" />
+</svg> 

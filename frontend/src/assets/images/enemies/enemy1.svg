@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <polygon points="32,8 56,32 32,56 8,32" fill="#a43" />
+  <text x="32" y="38" font-family="Arial" font-size="14" text-anchor="middle" fill="white">Enemy 1</text>
+  <circle cx="32" cy="24" r="6" fill="white" />
+</svg> 

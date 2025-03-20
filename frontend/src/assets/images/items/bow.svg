@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <path d="M 10 6 Q 22 16 10 26" stroke="#963" fill="none" stroke-width="2" />
+  <line x1="10" y1="16" x2="22" y2="16" stroke="#963" stroke-width="1" />
+  <text x="16" y="19" font-family="Arial" font-size="5" text-anchor="middle" fill="#963">Bow</text>
+</svg> 
