@@ -11,6 +11,17 @@ A browser-based idle MMO game inspired by Granado Espada, built with Phaser.js a
 - Item drops and inventory management
 - Different game zones with varying enemy difficulty
 
+## Documentation
+
+Comprehensive documentation is available in the [docs](./docs) directory:
+
+- [Documentation Index](./docs/index.md) - Overview of all documentation
+- [Architecture Overview](./docs/architecture.md) - System design and patterns
+- [Frontend Development](./docs/frontend-development.md) - Guide for working with the Phaser frontend
+- [Backend Development](./docs/backend-development.md) - Guide for working with the NestJS backend
+- [Game Mechanics](./docs/game-mechanics.md) - Details about game systems
+- [Contributing](./docs/contributing.md) - How to contribute to the project
+
 ## Tech Stack
 
 - **Frontend**: Phaser.js, TypeScript, Webpack
@@ -80,6 +91,10 @@ A browser-based idle MMO game inspired by Granado Espada, built with Phaser.js a
 - **Combat**: Characters automatically attack nearby enemies
 - **Skills**: Activate special abilities using MP
 - **Loot**: Collect items dropped by defeated enemies
+
+## Contributing
+
+Contributions are welcome! Please check out our [contributing guide](./docs/contributing.md) for details on how to contribute to this project.
 
 ## License
 
