@@ -1,7 +1,7 @@
 import { Character } from '../models/Character';
 import { Item } from '../models/Item';
 
-const API_URL = 'http://localhost:3001';
+const API_URL = 'http://192.168.86.22:3002';
 
 class ApiService {
     // User methods
